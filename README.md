@@ -1,1 +1,1 @@
-https://zinmu01za.github.io/SingleCvtest/index.html
+https://github.com/zinmu01za/SingleCvtest
